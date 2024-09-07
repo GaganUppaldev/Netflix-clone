@@ -1,1 +1,74 @@
+body{
+    background-color: black;
+}
+
+
+
+.box{
+    
+    border: solid black 2px;
+    height: 100vh;
+    width: 98vw;
+    margin-left: 0px;
+    margin-top: -7px;
+    margin-right: 5px;
+    
+    background-image: url('https://assets.nflxext.com/ffe/siteui/vlv3/51c1d7f7-3179-4a55-93d9-704722898999/be90e543-c951-40d0-9ef5-e067f3e33d16/IN-en-20240610-popsignuptwoweeks-perspective_alpha_website_medium.jpg');
+}
+
+
+
+
+    
+
+
+.boxes{
+    border: blue solid 2px;
+
+    margin-top: 15px;
+    width: 15vw;
+    height: 10vh;
+    color: red;
+    font-size: 50px;
+    -webkit-text-size-adjust: 100%;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    box-sizing: border-box;
+   
+    display: inline-flex;
+    flex-wrap: wrap;
+    padding: 0px;
+    
+    
+}
+
+
+
+
+
+
+.rock{
+       border: blue solid 2px;
+       width: 15vw;
+      
+       
+       height: 10vh;
+       margin-top: -70px;
+       margin-left: 60vw;
+    }
+.signup{
+    border: solid blue 2px;
+    height: 10vh;
+    width: 15vw;
+    margin-left: 82vw;
+    margin-top: -70px;
+}
+.intro{
+    border: solid yellow 2px;
+    height: 40vh;
+    width: 150vh;
+    margin-left: 30vh;
+    margin-top: 20vh;
+
+}
+
 
